@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/theanalyst_tito" target="blank"><img src="https://img.shields.io/twitter/follow/theanalyst_tito?logo=twitter&style=for-the-badge" alt="theanalyst_tito" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Go:Go-fiber, Python:Django**
 
