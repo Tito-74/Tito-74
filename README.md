@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tito-74&label=Profile%20views&color=0e75b6&style=flat" alt="tito-74" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tito-74" alt="tito-74" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/theanalyst_tito" target="blank"><img src="https://img.shields.io/twitter/follow/theanalyst_tito?logo=twitter&style=for-the-badge" alt="theanalyst_tito" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
